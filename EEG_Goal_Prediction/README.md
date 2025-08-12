@@ -136,8 +136,6 @@ Actual: SO [14   7]  # True SO = 14, False AO = 7
 
 
 ### Key Files
-- `eeg_sample.tsv`: Example data
+- `extrait.csv`: Example data
 - `notebooks/`: Complete analysis pipeline
-- `requirements.txt`: Python dependencies
 
-*Open Science - Reproducible Research*
