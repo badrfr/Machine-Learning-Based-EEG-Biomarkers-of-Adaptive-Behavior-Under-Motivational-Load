@@ -83,6 +83,7 @@ Feedback presentation (1500ms)
 - *Specific goal group*: Predetermined score to reach before each block
 ## 📁 Project Structure
 
+plaintext
 
 ├── README.md                                    # Main project documentation
 ├── Cognitive_Difficulty_Prediction/             # Phase 2: Difficulty Classification
