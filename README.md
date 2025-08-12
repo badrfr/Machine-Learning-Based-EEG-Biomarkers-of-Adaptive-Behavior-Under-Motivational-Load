@@ -89,9 +89,9 @@ Feedback presentation (1500ms)
 ### Experimental Groups
 
 - *No specific goal group*: General instructions ("do your best")
-       - Participants: 21
+  - Participants: 21
 - *Specific goal group*: Predetermined score to reach before each block
-       - Participants: 21
+  - Participants: 21
 ---
 
 ## 📁 Project Structure
