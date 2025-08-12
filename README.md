@@ -76,6 +76,7 @@ Reversal stimulus presentation (2000ms) →
 Inter-stimulus interval (800ms) → 
 Feedback presentation (1500ms)
 
+![Trial sequence of the combined oddball and reversal learning task](figures/protocol_structure.png)
 ### Experimental Groups
 
 - *No specific goal group*: General instructions ("do your best")
