@@ -4,9 +4,13 @@
 
 This project develops machine learning-based EEG biomarkers to analyze cognitive flexibility under motivational load. We employ an innovative dual-task paradigm combining probabilistic reversal learning with auditory oddball detection to study behavioral adaptation in dynamic environments.
 
+---
+
 ## 🎯 Study Objective
 
 This research aims to *develop and validate EEG biomarkers to characterize cognitive flexibility under motivational load* using machine learning approaches. The study examines how specific goal constraints modulate adaptive brain and behavioral processes during complex cognitive tasks.
+
+--- 
 
 ## 🔄 Modeling Pipeline
 
@@ -35,6 +39,8 @@ Our methodology follows a sequential approach with *two distinct phases* to capt
 - *Approach*: ML/DL models with interpretability analysis
 - *Target Performance*: >85% prediction accuracy
 
+---
+
 ### Research Questions by Phase
 
 *Phase 1 - Group Classification:*
@@ -47,6 +53,8 @@ Our methodology follows a sequential approach with *two distinct phases* to capt
 - *RQ5*: Traditional ML vs deep learning comparative performance
 - *RQ6*: Contribution of subjective measures to classification
 - *RQ7*: Free energy principle insights into model performance
+
+---
 
 ## 🔬 Methodology
 
@@ -67,6 +75,7 @@ Our innovative protocol combines two concurrent tasks:
 - *Rare stimuli*: High-pitched tone (20% of trials)
 - *Instruction*: Press key when detecting rare stimulus
 
+
 ### Temporal Sequence
 
 Fixation cross (1000ms) → 
@@ -80,7 +89,11 @@ Feedback presentation (1500ms)
 ### Experimental Groups
 
 - *No specific goal group*: General instructions ("do your best")
+       - Participants: 21
 - *Specific goal group*: Predetermined score to reach before each block
+       - Participants: 21
+---
+
 ## 📁 Project Structure
 
 ```plaintext
@@ -100,23 +113,8 @@ Feedback presentation (1500ms)
 │   │   └── EEG_Goal_Prediction_Advanced.ipynb
 │   └── README.md                                # Phase 1 specific documentation
 ```
-## 📚 Publications
 
-*Main Article: "Machine Learning-Based EEG Biomarkers of Adaptive Behavior Under Motivational Load" - *Under submission
-
-## 👥 Research Team
-
-- *Mouazen Badr* - LINP2 Laboratory, Paris Nanterre University
-- *Arthur Traon* - LINP2 Laboratory, Paris Nanterre University  
-- *Chaimae Elbahchoumi* - LASTI Laboratory, Sultan Moulay Slimane University
-- *Zainab El bouyed* - SEEDS Research Team, STRS Laboratory, INPT
-- *Noreddine Gherabi* - LASTI Laboratory, Sultan Moulay Slimane University
-- *Abdelwahed El Hassan* - LISI Laboratory, Cadi Ayyad University
-- *Giovanni De Marco* - LINP2 Laboratory, Paris Nanterre University
-
-## 📧 Contact
-
-*Correspondence*: bmouazen@parisnanterre.fr
+---
 
 ## 🙏 Acknowledgments
 
