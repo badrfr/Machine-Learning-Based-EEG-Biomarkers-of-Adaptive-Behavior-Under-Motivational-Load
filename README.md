@@ -18,7 +18,7 @@ Our methodology follows a sequential approach with *two distinct phases* to capt
 - *Target Variable*: Group membership
   - *AO (With Goal)*: Participants with specific performance objectives
   - *SO (Without Goal)*: Participants with general instructions
-- *Input Data*: Spectral EEG features (theta, beta, alpha, gamma bands) - *See EEG_Dataset/ for detailed features*
+- *Input Data*: Spectral EEG features (theta, beta, alpha, gamma bands) - *See EEG_Dataset/ for detailed variables*
 - *Approach*: Supervised classification with cross-validation
 - *Target Performance*: >80% classification accuracy
 
@@ -75,7 +75,6 @@ Inter-stimulus interval (500ms) →
 Reversal stimulus presentation (2000ms) → 
 Inter-stimulus interval (800ms) → 
 Feedback presentation (1500ms)
-
 
 ### Experimental Groups
 
