@@ -44,7 +44,7 @@ Our methodology follows a sequential approach with *two distinct phases* to capt
 ### Research Questions by Phase
 
 *Phase 1 - Group Classification:*
-- *RQ1*: Can spectral EEG features reliably differentiate WG vs WOG cognitive states?
+- *RQ1*: Can spectral EEG features reliably differentiate goal-constrained and non-goal-constrained cognitive states?
 - *RQ2*: Comparative performance of statistical vs spectral features
 - *RQ3*: Optimal algorithms for accuracy/efficiency balance
 
