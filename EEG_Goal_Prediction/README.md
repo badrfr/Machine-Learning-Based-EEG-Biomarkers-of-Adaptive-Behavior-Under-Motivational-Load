@@ -1,6 +1,6 @@
 # 🧠 EEG Goal Prediction: AO vs SO Classification
 
-This repository contains the complete pipeline for classifying **goal-directed (AO)** vs **non-goal-directed (SO)** cognitive states from 8-channel EEG data using machine learning and deep learning models.
+This repository contains the complete pipeline for classifying **goal-constrained (AO)** vs **non-goal-constrained (SO)** cognitive states from 8-channel EEG data using machine learning and deep learning models.
 
 ---
 
