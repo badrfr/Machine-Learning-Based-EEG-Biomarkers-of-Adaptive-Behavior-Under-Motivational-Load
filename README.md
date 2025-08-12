@@ -90,11 +90,14 @@ Feedback presentation (1500ms)
 │   ├── Comportemental_Dataset/
 │   │   └── extrait.csv                          # Behavioral and subjective measures
 │   ├── notebooks/                               # Jupyter notebooks for analysis
+│   │   └── Cognitive_Difficulty_Prediction.ipynb
 │   └── README.md                                # Phase 2 specific documentation
 ├── EEG_Goal_Prediction/                         # Phase 1: Group Classification  
 │   ├── EEG_Dataset/
 │   │   └── extrait.csv                          # EEG spectral features
 │   ├── notebooks/                               # Jupyter notebooks for analysis
+│   │   ├── EEG_Goal_Prediction_Basic.ipynb                             
+│   │   └── EEG_Goal_Prediction_Advanced.ipynb
 │   └── README.md                                # Phase 1 specific documentation
 ```
 ## 📚 Publications
