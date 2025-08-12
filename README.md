@@ -106,13 +106,13 @@ Feedback presentation (1500ms)
 
 ## 👥 Research Team
 
-- *Mouazen Badr* - LINP2 Lab, Paris Nanterre University
-- *Arthur Traon* - LINP2 Lab, Paris Nanterre University  
+- *Mouazen Badr* - LINP2 Laboratory, Paris Nanterre University
+- *Arthur Traon* - LINP2 Laboratory, Paris Nanterre University  
 - *Chaimae Elbahchoumi* - LASTI Laboratory, Sultan Moulay Slimane University
-- *Zainab El bouyed* - SEEDS Research Team, INPT
+- *Zainab El bouyed* - SEEDS Research Team, STRS Laboratory, INPT
 - *Noreddine Gherabi* - LASTI Laboratory, Sultan Moulay Slimane University
 - *Abdelwahed El Hassan* - LISI Laboratory, Cadi Ayyad University
-- *Giovanni De Marco* - LINP2 Lab, Paris Nanterre University
+- *Giovanni De Marco* - LINP2 Laboratory, Paris Nanterre University
 
 ## 📧 Contact
 
