@@ -12,6 +12,8 @@ This repository contains the complete pipeline for classifying **goal-directed (
   - `AO_10.csv` = Participant 10 (Avec Objectif)
   - `SO_2.csv` = Participant 2 (Sans Objectif)
 
+![Dataset overview](EEG_Dataset/Dataset_overview.png)
+
 ### 🎛️ Recording Specifications
 | Parameter          | Value                  |
 |--------------------|------------------------|
