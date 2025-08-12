@@ -83,7 +83,7 @@ Feedback presentation (1500ms)
 - *Specific goal group*: Predetermined score to reach before each block
 ## 📁 Project Structure
 
-plaintext
+```plaintext
 
 ├── README.md                                    # Main project documentation
 ├── Cognitive_Difficulty_Prediction/             # Phase 2: Difficulty Classification
@@ -96,7 +96,7 @@ plaintext
 │   │   └── extrait.csv                          # EEG spectral features
 │   ├── notebooks/                               # Jupyter notebooks for analysis
 │   └── README.md                                # Phase 1 specific documentation
-
+```
 ## 📚 Publications
 
 *Main Article: "Machine Learning-Based EEG Biomarkers of Adaptive Behavior Under Motivational Load" - *Under submission
