@@ -140,7 +140,7 @@ def build_bilstm(input_shape):
 - **80/20 Train-Test Split**
 - **Class Weight Balancing**
 
-```
+---
 
 ### 📊 Evaluation Metrics
 1. **Primary**: Accuracy, F1-score
