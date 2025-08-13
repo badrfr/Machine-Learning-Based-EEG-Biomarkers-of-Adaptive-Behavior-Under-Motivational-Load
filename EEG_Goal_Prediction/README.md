@@ -42,6 +42,7 @@ Extracted via **Welch's PSD** in 5 bands:
 | Beta   | 13-30Hz  | Active thinking                |
 | Gamma  | 30-50Hz  | Cross-modal integration        |
 
+![Waves](../figures/waves.png)
 ### 🛠️ Feature Engineering Details
 
 #### 1. **Time-Domain Features**
